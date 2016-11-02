@@ -1,0 +1,16 @@
+{
+  "name": "utf8-check",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "check-utf8": "./index.js"
+  },
+  "author": "Tim Neutkens",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.1",
+    "pify": "^2.3.0",
+    "shelljs": "^0.7.5"
+  }
+}
