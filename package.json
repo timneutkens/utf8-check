@@ -3,6 +3,9 @@
   "version": "0.0.2",
   "description": "Check if a file is valid UTF-8",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "bin": {
     "check-utf8": "./index.js"
   },
